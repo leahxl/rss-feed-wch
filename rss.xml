@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>艺术馆 RSS 汇总</title>
+    <link>https://your-domain.com/rss.xml</link>
+    <description>手动收集的微信艺术馆更新</description>
+
+    <item>
+      <title>BY ART MATTERS 天目里美术馆</title>
+      <link>https://mp.weixin.qq.com/s/Lbo7FTkhAVFcJBJwJoMCaQ</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>中国美术学院美术馆（南山校区）CAAM</title>
+      <link>https://mp.weixin.qq.com/s/hKjHSogJZlpHJ_Nac2b8ig</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>中心美术馆（杭州中心）CAM</title>
+      <link>https://mp.weixin.qq.com/s/unPiaC6bUaiOBbi7AL0CTA</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>米仓艺术中心</title>
+      <link>https://mp.weixin.qq.com/s/zXGklaYrT5t7wGzyZ69a6w</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>拾萬空间(杭州) Hunsand Space (Hangzhou)</title>
+      <link>https://mp.weixin.qq.com/s/Npjp2QzPek55hlvY8qn7ZA</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>金鹰美术馆 Golden Eagle Museum of Art / G Museum</title>
+      <link>https://mp.weixin.qq.com/s/bXCI63Dz3wufUOTnyDd_4Q</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>上海当代艺术博物馆 PSA</title>
+      <link>https://mp.weixin.qq.com/s/IsJO2hOHVTJmOTuPyuGj1Q</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>西岸美术馆</title>
+      <link>https://mp.weixin.qq.com/s/7VGRgSWL3phUeIyVqn5nGA</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>龙美术馆(西岸馆)</title>
+      <link>https://mp.weixin.qq.com/s/YQlNCs2cN5arFokOqQjwMA</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>昊美术馆 HOW Art Museum</title>
+      <link>https://mp.weixin.qq.com/s/WW2ScsjXvOKeX-y4XuXh6Q</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>上海多伦现代美术馆</title>
+      <link>https://mp.weixin.qq.com/s/kfi2OeTGuv5D81u0l-Z7yQ</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>McaM 明当代美术馆</title>
+      <link>https://mp.weixin.qq.com/s/d7eCjEJKxyYRXxFv5uUvSw</link>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0800</pubDate>
+    </item>
+
+  </channel>
+</rss>
